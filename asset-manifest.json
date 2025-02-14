@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/punit/static/css/main.4c716c55.css",
+    "main.js": "/punit/static/js/main.c602fad5.js",
+    "static/js/453.207a94f7.chunk.js": "/punit/static/js/453.207a94f7.chunk.js",
+    "index.html": "/punit/index.html",
+    "main.4c716c55.css.map": "/punit/static/css/main.4c716c55.css.map",
+    "main.c602fad5.js.map": "/punit/static/js/main.c602fad5.js.map",
+    "453.207a94f7.chunk.js.map": "/punit/static/js/453.207a94f7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4c716c55.css",
+    "static/js/main.c602fad5.js"
+  ]
+}
