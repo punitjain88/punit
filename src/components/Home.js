@@ -6,19 +6,19 @@ const sportsData = [
     name: "Football",
     image: "https://d2jx2rerrg6sh3.cloudfront.net/images/news/ImageForNews_742320_1679349106715629.jpg",
     description: "Football is a popular sport played between two teams aiming to score goals.",
-    link: "https://www.fifa.com/", // Example link
+    link: "https://www.fifa.com/", 
   },
   {
     name: "Basketball",
     image: "https://cdn-attachments.timesofmalta.com/b29412e8a592efff037e2b211f6092a1e3d30432-1655124335-50e3749a-1920x1280.jpg",
     description: "Basketball is a fast-paced game where players score points by shooting a ball through a hoop.",
-    link: "https://www.nba.com/", // Example link
+    link: "https://www.nba.com/", 
   },
   {
     name: "Tennis",
     image: "https://upload.wikimedia.org/wikipedia/commons/3/3e/Tennis_Racket_and_Balls.jpg",
     description: "Tennis is a sport played individually or in doubles, requiring skill and endurance.",
-    link: "https://www.atptour.com/", // Example link
+    link: "https://www.atptour.com/", 
   },
 ];
 
